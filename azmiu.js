@@ -154,9 +154,9 @@ const questions = [
   {
     question: 'Zəlzələnin ocaqda qiymətləndirilməsi (M)düsturu hansıdır?',
     answers: [
-      { text: 'M=lg A/A0', correct: false },
+      { text: 'A=lgJ0/lgM0', correct: false },
       { text: 'A=lgM/lgM0', correct: false },
-      { text: 'A=lgJ0/lgM0', correct: true  },
+      { text: 'M=lg A/A0', correct: true  },
       { text: 'M=lgA', correct: false },
       { text: 'M=lgA0', correct: false }
 
